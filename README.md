@@ -46,26 +46,22 @@
 ---
 
 ## 🛠️ Technical Skills
+<p align="center">
 
-### 💻 Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,java,python" height="55"/>
-</p>
+  <!-- Programming -->
+  <img src="https://skillicons.dev/icons?i=c,java,python" height="55"/><br><br>
 
-### 🗄️ Database
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql" height="55"/>
-</p>
+  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="55"/><br><br>
 
-### 🌐 Web Technologies
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" height="55"/>
-</p>
+  <!-- Web -->
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" height="55"/><br><br>
 
-### 🧰 Tools
-<p>
+  <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode" height="55"/>
+
 </p>
+
 
 ---
 
