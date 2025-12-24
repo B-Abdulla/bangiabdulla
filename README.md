@@ -1,9 +1,9 @@
 # bangiabdulla<!-- Header -->
-<h1 align="center">👋 Hi, I'm YOUR NAME</h1>
-<h3 align="center">CSE Student | RGUKT RK VALLEY | Programmer & Web Developer</h3>
+<h1 align="center">👋 Hi, I'm Abdulla</h1>
+<h3 align="center">CSE Student | RGUKT RK VALLEY | </h3>
 
 <p align="center">
-  🚀 Passionate about coding, learning, and building impactful projects.
+  🌱 Learning, coding, and growing every day.
 </p>
 
 ---
@@ -11,19 +11,19 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="your-linkedin-link" target="_blank">
+  <a href="www.linkedin.com/in/bangi-abdulla-64458534a" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:your-email">
+  <a href="mailto:bangiabdulla6@gmail.com">
     <img src="https://img.icons8.com/color/512/gmail-new.png" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/your-whatsapp-number" target="_blank">
+  <a href="https://wa.me/6281818577" target="_blank">
     <img src="https://img.icons8.com/color/512/whatsapp.png" height="50"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/bangiabdulla" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" height="50"/>
   </a>
 </p>
@@ -38,8 +38,7 @@
     <td>
       <h3>Bachelor of Technology – Computer Science & Engineering</h3>
       <b>Rajiv Gandhi University of Knowledge Technologies (RGUKT), RK Valley</b><br>
-      📅 Graduation Year: 20XX<br>
-      📍 Andhra Pradesh, India
+      📅 Graduation Year: 2028<br>
     </td>
   </tr>
 </table>
@@ -71,16 +70,18 @@
 ---
 
 ## 📌 About Me
-- 🎓 CSE Student at **RGUKT RK Valley**
-- 💻 Passionate about **Programming & Web Development**
-- 🌱 Currently improving **Data Structures & Projects**
-- 🤝 Open to collaboration and learning opportunities
+
+- 🎓 Currently pursuing **B.Tech in Computer Science & Engineering** at RGUKT RK Valley  
+- 🚀 Actively learning and exploring **new technologies** to enhance my skills  
+- 💻 Practicing **Data Structures & Algorithms ** to strengthen problem-solving ability  
+- 🌐 Working on **Full Stack Web Development** to build real-world applications  
+- 🤝 Always curious, motivated, and open to learning & collaboration  
+
 
 ---
 
 ## ⭐ Featured Projects
-- 🎮 Simon Game (JavaScript)
-- 🌐 Portfolio Website
+- 🎮 Simon Game 
 - 📚 Academic / Mini Projects
 
 ---
