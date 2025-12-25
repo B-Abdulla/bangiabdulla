@@ -117,9 +117,9 @@
 
 <p align="center">
 
-  <!-- GitHub Stats -->
+  <!-- Stats -->
   <img 
-       src="https://github-readme-stats.vercel.app/api?username=B-Abdulla&show_icons=true&theme=tokyonight&count_private=true" 
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=B-Abdulla&show_icons=true&theme=tokyonight" 
        height="170"/>
 
   <!-- Streak -->
@@ -133,10 +133,11 @@
 
   <!-- Top Languages -->
   <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=B-Abdulla&layout=compact&theme=tokyonight" 
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=B-Abdulla&layout=compact&theme=tokyonight" 
        height="170"/>
 
 </p>
+
 
 
 ---
