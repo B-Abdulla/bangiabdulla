@@ -76,7 +76,7 @@
 - 🎓 Currently pursuing **B.Tech in Computer Science & Engineering** at RGUKT RK Valley  
 - 🚀 Actively learning and exploring **new technologies** to enhance my skills  
 - 💻 Practicing **Data Structures & Algorithms ** to strengthen problem-solving ability  
-- 🌐 Working on **Full Stack Web Development** to build real-world applications  
+- 🌐 Working on **Full Stack Development** to build real-world applications  
 - 🤝 Always curious, motivated, and open to learning & collaboration  
 
 
